@@ -1,7 +1,50 @@
-# airbnb-price-analysis
+# airbnb-data-analysis
 Duration: Sep 2025 – Jan 2026
 Domain: Domain: Business Analytics | Pricing Analytics | Exploratory Data Analysis
 https://github.com/Vijayy16/airbnb-price-analysis/blob/main/airbnb_price_analysis.ipynb
+
+🛠 Tech Stack
+Python
+Pandas, NumPy
+Matplotlib, Seaborn
+Jupyter Notebook
+
+📊 Dataset
+The dataset contains Airbnb listing information, including:
+Listing price
+Room type
+Neighborhood / location
+Availability (days per year)
+Minimum nights
+Number of reviews
+Review scores
+The data is used to explore trends in pricing, demand, and location-based performance.
+
+🔍 Analysis Performed
+Data Cleaning and Preprocessing
+Exploratory Data Analysis (EDA)
+Price Distribution Analysis
+Neighborhood-wise Price Comparison
+Room Type vs Price Analysis
+Availability and Demand Trends
+Correlation Analysis between key variables
+
+📈 Key Insights
+Entire homes/apartments are priced significantly higher than private or shared rooms
+Listings in central or popular neighborhoods tend to have higher prices
+Availability varies widely across locations, indicating differences in demand
+Price shows moderate correlation with room type and location-related features.
+
+▶️ How to Run
+Clone the repository
+Open the Jupyter Notebook
+Run all cells from top to bottom to reproduce the analysis
+
+🚀 Future Enhancements
+Add predictive pricing models
+Include seasonal trend analysis
+Incorporate advanced visualizations or dashboards
+Compare multiple cities or time periods
 
 
 Project Overview 
