@@ -1,6 +1,7 @@
 # airbnb-price-analysis
 Duration: Sep 2025 – Jan 2026
-Domain: Business Analytics | Pricing Analytics | Machine Learning
+Domain: Domain: Business Analytics | Pricing Analytics | Exploratory Data Analysis
+
 
 Project Overview
 
