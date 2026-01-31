@@ -3,7 +3,7 @@ Duration: Sep 2025 – Jan 2026
 Domain: Domain: Business Analytics | Pricing Analytics | Exploratory Data Analysis
 
 
-Project Overview airbnb_price_analysis.ipynb
+Project Overview 
 
 This project focused on analyzing Airbnb listing data to understand the key factors influencing room pricing and to build predictive models that support data-driven pricing decisions for new and existing hosts. The objective was to identify critical pricing determinants, improve price estimation accuracy, and translate analytical insights into actionable recommendations that could enhance host profitability and market competitiveness.
 
