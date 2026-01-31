@@ -1,6 +1,7 @@
 # airbnb-price-analysis
 Duration: Sep 2025 – Jan 2026
 Domain: Domain: Business Analytics | Pricing Analytics | Exploratory Data Analysis
+https://github.com/Vijayy16/airbnb-price-analysis/blob/main/airbnb_price_analysis.ipynb
 
 
 Project Overview 
